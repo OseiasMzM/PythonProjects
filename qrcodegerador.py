@@ -6,7 +6,7 @@ import pyqrcode
 root = Tk()
 root.geometry("190x300")
 root["background"] = "#38005F"
-root.wm_iconbitmap('qrtitle.ico')
+
 root.title("QrCode Gerador") # Titulo
 
 def exit_bt():
